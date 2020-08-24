@@ -1,0 +1,9 @@
+C:\Users\Emircan\source\repos\EzSorter\EzSorter\obj\Release\netstandard2.1\EzSorter.csprojAssemblyReference.cache
+C:\Users\Emircan\source\repos\EzSorter\EzSorter\obj\Release\netstandard2.1\EzSorter.AssemblyInfoInputs.cache
+C:\Users\Emircan\source\repos\EzSorter\EzSorter\obj\Release\netstandard2.1\EzSorter.AssemblyInfo.cs
+C:\Users\Emircan\source\repos\EzSorter\EzSorter\obj\Release\netstandard2.1\EzSorter.csproj.CoreCompileInputs.cache
+C:\Users\Emircan\source\repos\EzSorter\EzSorter\bin\Release\netstandard2.1\EzSorter.deps.json
+C:\Users\Emircan\source\repos\EzSorter\EzSorter\bin\Release\netstandard2.1\EzSorter.dll
+C:\Users\Emircan\source\repos\EzSorter\EzSorter\bin\Release\netstandard2.1\EzSorter.pdb
+C:\Users\Emircan\source\repos\EzSorter\EzSorter\obj\Release\netstandard2.1\EzSorter.dll
+C:\Users\Emircan\source\repos\EzSorter\EzSorter\obj\Release\netstandard2.1\EzSorter.pdb
